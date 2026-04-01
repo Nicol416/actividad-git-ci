@@ -9,4 +9,4 @@ Este es mi repositorio de la actividad de Git y CI.
 
 ## Uso
 
-Este proyecto utiliza GitHub Actions para validar archivos Markdown automáticamente.
+Este proyecto utiliza GitHub Actions para validar archivos Markdown automáticamente
