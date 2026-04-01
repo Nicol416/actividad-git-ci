@@ -14,4 +14,3 @@ Este proyecto utiliza GitHub Actions para validar archivos Markdown automáticam
 ## Contribución
 
 Consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
-
